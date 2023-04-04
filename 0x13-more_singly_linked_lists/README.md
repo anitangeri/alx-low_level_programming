@@ -1,4 +1,5 @@
 Working with more singly linked lists
+Tasks include:
 lists.h: lists.h file contains prototypes to the functions.
 File Prototype struct listint_s int n struct listint_s *next typedef listint_t struct listint_s
 0-print_listint.c size_t print_listint(const listint_t *h);
